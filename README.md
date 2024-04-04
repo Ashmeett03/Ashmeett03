@@ -17,6 +17,7 @@ As a fresher, I'm on a thrilling journey of discovery, exploring the wonders of 
 ## Connect with Me
 Let's connect and embark on this coding adventure together!
 - [LinkedIn](https://www.linkedin.com/in/ashmeett03/)
+- [LeetCode](https://leetcode.com/ashmeett03/)
 
 ## Let's Collaborate!
 I'm enthusiastic about collaborating on cool projects and learning from experienced developers.
